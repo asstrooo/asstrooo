@@ -10,7 +10,7 @@
 
 {  
 
-* 👂 `My name is`: **ASTRIII**,
+* 👂 `My name is`: **astrooo**,
 * 💻 `Favorite lang`: **JS AND LUA**  
 
 }
@@ -34,7 +34,7 @@
   
 | <a href="https://github.com/sammasstrooowyy/Lure" target="_blank">**Lure**</a> | <a href="https://github.com/asstrooo/OpenMC" target="_blank">**OpenMC**</a> | <a href="https://github.com/asstrooo/show-emote" target="_blank">**Showemote**</a> | <a href="https://github.com/sammwyy/umivr" target="_blank">**UmiVR**</a> |
 | :---: | :---: | :---: | :---: |
-<img align='center' src='https://github.com/sammwyy/Lure/blob/main/assets/icon@128.png?raw=true' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/asstrooo/OpenMC/blob/main/assets/icon.png?raw=true' height='100px'>  | <img align='center'  width="100px" height='100px'> | <img align='center' src='https://github.com/sammwyy/UmiVR/blob/main/Assets/icon.png?raw=true' width="100px" height='100px'> |
+ | <img align='center' width="100px" src='https://github.com/asstrooo/OpenMC/blob/main/assets/icon.png?raw=true' height='100px'>  | <img align='center'  width="100px" height='100px'> | <img align='center' src='https://github.com/sammwyy/UmiVR/blob/main/Assets/icon.png?raw=true' width="100px" height='100px'> |
 | <p>Minecraft L7 proxy in Rust.</p> <a href="https://github.com/asstrooo/lure" target="_blank">`Repository`</a> | <p>Open Source Minecraft launcher</p> <a href="https://github.com/asstrooo/OpenMC" target="_blank">`Repository`</a> <a href="https://discord.gg/bm9Dk8k6CC" target="_blank">`Discord`</a> | <p>Allow chat show emotes on screen</p> <a href="https://github.com/sammwyy/show-emote" target="_blank">`Repository`</a> <a href="https://show-emote.sammwy.com/" target="_blank">Website</a> | <p>Open-source VTuber software</p> <a href="https://github.com/asstrooo/umivr" target="_blank">`Repository`</a> |
 <br/>
 
