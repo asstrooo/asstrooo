@@ -12,7 +12,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
- target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onajlikezz" height="30" width="40" /></a>
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onajlikezz" height="30" width="40" /></a>
 <a align="center" href="https://discord.gg/https://discord.gg/projectnoxius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Kj64D4ddtK" height="30" width="40" /></a>
 </p>
 
