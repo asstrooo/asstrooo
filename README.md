@@ -34,7 +34,7 @@
   
 | <a href="https://github.com/sammwyy/Lure" target="_blank">**Lure**</a> | <a href="https://github.com/sammwyy/OpenMC" target="_blank">**OpenMC**</a> | <a href="https://github.com/sammwyy/show-emote" target="_blank">**Showemote**</a> | <a href="https://github.com/sammwyy/umivr" target="_blank">**UmiVR**</a> |
 | :---: | :---: | :---: | :---: |
-<img align='center' src='https://github.com/sammwyy/Lure/blob/main/assets/icon@128.png?raw=true' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/sammwyy/OpenMC/blob/main/assets/icon.png?raw=true' height='100px'>  | <img align='center' src='https://cdn3.emoji.gg/emojis/9452_lul.png' width="100px" height='100px'> | <img align='center' src='https://github.com/sammwyy/UmiVR/blob/main/Assets/icon.png?raw=true' width="100px" height='100px'> |
+<img align='center' src='https://github.com/sammwyy/Lure/blob/main/assets/icon@128.png?raw=true' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/sammwyy/OpenMC/blob/main/assets/icon.png?raw=true' height='100px'>  | <img align='center'  width="100px" height='100px'> | <img align='center' src='https://github.com/sammwyy/UmiVR/blob/main/Assets/icon.png?raw=true' width="100px" height='100px'> |
 | <p>Minecraft L7 proxy in Rust.</p> <a href="https://github.com/samwmyy/lure" target="_blank">`Repository`</a> | <p>Open Source Minecraft launcher</p> <a href="https://github.com/sammwyy/OpenMC" target="_blank">`Repository`</a> <a href="https://discord.gg/bm9Dk8k6CC" target="_blank">`Discord`</a> | <p>Allow chat show emotes on screen</p> <a href="https://github.com/sammwyy/show-emote" target="_blank">`Repository`</a> <a href="https://show-emote.sammwy.com/" target="_blank">Website</a> | <p>Open-source VTuber software</p> <a href="https://github.com/sammwyy/umivr" target="_blank">`Repository`</a> |
 <br/>
 
@@ -59,23 +59,6 @@
 <a href="https://github.com/search?q=user%asstrooo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-<h4 align="center">📚 Frameworks and Libraries</h4>
-
-<p align="center">
-<a href="#"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87.svg?logo=apollo-graphql&logoColor=white"></a>
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Dotnet" src="https://img.shields.io/badge/Dotnet-512BD4.svg?logo=dotnet&logoColor=white"></a>
-<a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
-<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-<a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/graphql-E10098.svg?logo=graphql&logoColor=white"></a>
-<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-<a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
-<a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
-<a href="#"><img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB.svg?logo=tauri&logoColor=white"></a>
-<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
-</p>
 
 <h4 align="center">⚙ Software</h4>
 
